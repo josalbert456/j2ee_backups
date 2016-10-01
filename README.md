@@ -1,5 +1,5 @@
 # j2ee_backups
-start up for j2ee: 
+start up j2ee: 
 
 apt-get install tomcat7
 
