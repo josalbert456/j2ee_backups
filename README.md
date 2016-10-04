@@ -12,3 +12,6 @@ open the url:	localhost:8080/sample/hello		or		localhost:8080/sample/hello.jsp		
 tomee is another java server that supports ejb, ...
 
 A little java bean: WEB-INF/classes/albert/Hello.java (called in first.jsp)
+
+object_method.jsp: list all jsp Objects' methods, are the objects like the $_GET or $_POST stuffs in PHP? But they are
+more powerful, aren't they?
