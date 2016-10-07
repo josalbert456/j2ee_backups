@@ -3,7 +3,7 @@
 <head>
 <title>JSP Customized Tags</title>
 </head>
-<body bgcolor=white>
+<body>
 
 <p>
 <%@ taglib uri="/tijtags.tld" prefix="tijtags" %>
