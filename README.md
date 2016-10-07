@@ -16,5 +16,5 @@ A little java bean: WEB-INF/classes/albert/Hello.java (called in first.jsp)
 object_method.jsp: list all jsp Objects' methods, are the objects like the $_GET or $_POST stuffs in PHP? But they are
 more powerful, aren't they?
 
-Under Ubuntu system, Context is configured in a single file 'Context.xml' which is at the same directory of server.xml, always 
+Under Ubuntu, Context is configured in a single file 'Context.xml' which is at the same directory of server.xml, always 
 at /etc/tomcat7/. For the sake of development, set the reloadable attribute "true", the Watcher will monitor any changes, thus we don't need to restart our server each time after we make some changes in the beans
